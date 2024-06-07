@@ -1,0 +1,102 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(255, 217, 0);
+
+}
+.container{
+    height: 500px;
+    width: 400px;
+    /* border: 3px solid rgb(255, 255, 255); */
+    margin-top: 40px;
+    margin-left: 450px;     
+}
+.fhead{
+    height: 35px;
+    width: 100%;
+    background-color: rgb(255, 159, 15);
+}
+.fhead h3{
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 5px;
+
+}
+ .fbody{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(5, 0, 51);
+    text-align: center;
+    padding-top: 15px;
+     
+    line-height: 36px;
+     
+
+} 
+ label{
+    text-align:right;
+ }
+ .ep{
+    padding-left: 24px;
+ }
+.country{
+    padding-right: 95px;
+}
+.gender{
+    padding-right: 40px;
+    padding-top: 0;
+}
+.dob{
+    padding-right: 27px;
+    color:rgb(148, 8, 8)
+    
+}
+select{
+    color: black;
+}
+.ffoot{
+    width: 100%;
+    height: 65px;
+    background-color: rgb(255, 159, 15);
+}
+input[type=submit]{
+    background-color: rgb(68, 231, 28);
+    padding: 5px;
+    font-size: medium;
+    color: white;
+    font-weight:100;
+    border: none;
+    height: 32px;
+    width: 60px;
+
+}
+button{
+    background-color: red;
+    padding: 5px;
+    font-size: medium;
+    color: white;
+    font-weight:100;
+    border: none;
+    height: 32px;
+    width: 60px;
+    
+}
+.bt{
+    padding-left: 260px;
+    padding-top: 13px;
+   
+}
+.cbox{
+    padding-left: 72px;
+}
+.cp{
+    padding-right: 54px;
+}
+option{
+    color: black;
+}
+input[type=password]{
+    color:black
+}
